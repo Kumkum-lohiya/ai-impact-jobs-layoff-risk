@@ -451,7 +451,8 @@ Possible extensions include:
 
 # 👨‍💻 19. Author
 
-### **Khushal Dak**
+### **Kumkum Lohiya
+**
 
 🎓 B.Tech — Computer Science Engineering  
 🏫 Techno NJR Institute of Technology  
